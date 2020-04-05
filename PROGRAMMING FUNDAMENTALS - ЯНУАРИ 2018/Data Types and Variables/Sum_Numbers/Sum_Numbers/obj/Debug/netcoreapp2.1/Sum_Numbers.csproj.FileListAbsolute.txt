@@ -1,0 +1,11 @@
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\bin\Debug\netcoreapp2.1\Sum_Numbers.deps.json
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\bin\Debug\netcoreapp2.1\Sum_Numbers.runtimeconfig.json
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\bin\Debug\netcoreapp2.1\Sum_Numbers.runtimeconfig.dev.json
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\bin\Debug\netcoreapp2.1\Sum_Numbers.dll
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\bin\Debug\netcoreapp2.1\Sum_Numbers.pdb
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.csprojAssemblyReference.cache
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.csproj.CoreCompileInputs.cache
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.AssemblyInfoInputs.cache
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.AssemblyInfo.cs
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.dll
+D:\C#\C#\C-Sharp\PROGRAMMING FUNDAMENTALS - ЯНУАРИ 2018\Data Types and Variables\Sum_Numbers\Sum_Numbers\obj\Debug\netcoreapp2.1\Sum_Numbers.pdb
