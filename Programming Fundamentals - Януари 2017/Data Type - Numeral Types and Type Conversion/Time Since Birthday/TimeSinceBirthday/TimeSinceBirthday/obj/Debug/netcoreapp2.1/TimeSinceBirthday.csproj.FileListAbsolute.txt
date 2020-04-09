@@ -1,0 +1,11 @@
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\bin\Debug\netcoreapp2.1\TimeSinceBirthday.deps.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\bin\Debug\netcoreapp2.1\TimeSinceBirthday.runtimeconfig.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\bin\Debug\netcoreapp2.1\TimeSinceBirthday.runtimeconfig.dev.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\bin\Debug\netcoreapp2.1\TimeSinceBirthday.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\bin\Debug\netcoreapp2.1\TimeSinceBirthday.pdb
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.csprojAssemblyReference.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.csproj.CoreCompileInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.AssemblyInfoInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.AssemblyInfo.cs
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Time Since Birthday\TimeSinceBirthday\TimeSinceBirthday\obj\Debug\netcoreapp2.1\TimeSinceBirthday.pdb
