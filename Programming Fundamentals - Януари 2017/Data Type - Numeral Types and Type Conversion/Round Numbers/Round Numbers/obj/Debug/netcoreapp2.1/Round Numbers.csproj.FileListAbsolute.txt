@@ -1,0 +1,10 @@
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\bin\Debug\netcoreapp2.1\Round Numbers.deps.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\bin\Debug\netcoreapp2.1\Round Numbers.runtimeconfig.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\bin\Debug\netcoreapp2.1\Round Numbers.runtimeconfig.dev.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\bin\Debug\netcoreapp2.1\Round Numbers.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\bin\Debug\netcoreapp2.1\Round Numbers.pdb
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\obj\Debug\netcoreapp2.1\Round Numbers.csproj.CoreCompileInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\obj\Debug\netcoreapp2.1\Round Numbers.AssemblyInfoInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\obj\Debug\netcoreapp2.1\Round Numbers.AssemblyInfo.cs
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\obj\Debug\netcoreapp2.1\Round Numbers.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\Round Numbers\Round Numbers\obj\Debug\netcoreapp2.1\Round Numbers.pdb
