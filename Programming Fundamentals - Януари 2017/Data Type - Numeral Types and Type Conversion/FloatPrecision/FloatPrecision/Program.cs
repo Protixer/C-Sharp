@@ -11,6 +11,12 @@ namespace FloatPrecision
             double sum = 1.33F;
 
             Console.WriteLine((a+b) == sum);
+
+            double c = 1.0;
+            double v = 0.33;
+            double sumCV = 1.33;
+
+            Console.WriteLine((c + v) == sumCV);
         }
     }
 }
