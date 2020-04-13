@@ -1,0 +1,11 @@
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\bin\Debug\netcoreapp2.1\FloatPrecision.deps.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\bin\Debug\netcoreapp2.1\FloatPrecision.runtimeconfig.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\bin\Debug\netcoreapp2.1\FloatPrecision.runtimeconfig.dev.json
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\bin\Debug\netcoreapp2.1\FloatPrecision.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\bin\Debug\netcoreapp2.1\FloatPrecision.pdb
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.csprojAssemblyReference.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.csproj.CoreCompileInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.AssemblyInfoInputs.cache
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.AssemblyInfo.cs
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.dll
+D:\C#\C#\C-Sharp\Programming Fundamentals - Януари 2017\Data Type - Numeral Types and Type Conversion\FloatPrecision\FloatPrecision\obj\Debug\netcoreapp2.1\FloatPrecision.pdb
